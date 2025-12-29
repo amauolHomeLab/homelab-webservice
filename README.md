@@ -209,6 +209,14 @@ Réponse attendue :
 
 ---
 
+## 📚 Ressources
+
+- Claude IA, Chat GPT-5.2
+- [Serveur Fault] : https://serverfault.com/questions/845471/service-start-request-repeated-too-quickly-refusing-to-start-limit
+- [Stack Overflaw] : https://stackoverflow.com/questions/35452591/start-request-repeated-too-quickly
+
+---
+
 ## 👨‍💻 Auteur
 
 Projet personnel réalisé dans le cadre d’un entraînement en **administration système & DevOps**.
